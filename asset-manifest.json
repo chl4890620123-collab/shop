@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/fruit/static/css/main.5200e048.css",
+    "main.js": "/fruit/static/js/main.e5b9fb86.js",
+    "index.html": "/fruit/index.html",
+    "main.5200e048.css.map": "/fruit/static/css/main.5200e048.css.map",
+    "main.e5b9fb86.js.map": "/fruit/static/js/main.e5b9fb86.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5200e048.css",
+    "static/js/main.e5b9fb86.js"
+  ]
+}
